@@ -22,7 +22,8 @@ We built this project using HTML, CSS, JS, Bulma, the Open Weather API, and the 
 
 [Demo of My Page](https://drive.google.com/file/d/1M_CCbE0Xs521InO8FWSQAH44G_JZTp5Z/view)
 
-[Link to Application](https://damiandeleon.github.io/vacation_planner/)
+[Link to Application](https://rachelamos.github.io/vacation-planner/)
+
 
 # Contributers:
 - Damian De Leon
